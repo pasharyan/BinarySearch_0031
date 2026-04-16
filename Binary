@@ -111,3 +111,9 @@ void BinarySearch()
 }
 
 int main()
+{
+    input();
+    BubbleSortArray();
+    display();
+    BinarySearch();
+}
